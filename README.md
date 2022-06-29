@@ -1,0 +1,3 @@
+# Spotify
+Analysing top 100 songs on spotify with respect to their genre , year released ,beats per minute ,energy level of song ,decible of song ... 
+and many more features of song 
